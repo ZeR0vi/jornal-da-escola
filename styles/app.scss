@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+.app{
+    height: 100%;
+    background-color: #19181F;
+}
+
+header {
+    position: fixed;
+    background-color: #07D962;
+    height: 70px;
+    width: 100%;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-top: 15px;
+   
+}
+
+.subtitle {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    color: 	#fff;
+    padding-left: 20vw;
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 10vw;
+}
+
+span {
+    color: #07D962;
+    padding-right: 8px;
+}
+
+
+.bottom {
+    background-color: #07D962;
+    height: 100px;
+}
+
+.bottomlogo{
+    color: white;
+    padding-top: 50px;
+}
+
+
+
+.images {
+    display: flex;
+    align-items: center;
+
+}
+
+.m {
+    color: #fff;
+}
+
+.circle{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    background-color: #07D962;
+    clip-path: circle(30% at bottom right);
+    
+}
+
+.botao {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 35px;
+    padding-left: 20vw;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20vw;
+    height: 5vw;
+    cursor: pointer;
+    background-color: #07D962;
+    color: #fff;
+    border-radius: 50px;
+    
+}
+
+
+button:hover {
+    transition: 1s;
+    cursor: pointer;
+    background-color: hwb(146 0% 26%);
+
+}
+
+.recent {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6vw;
+    font-size: 70px;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.titulo{
+    font-size: 3em;
+    padding-left: 20vw; 
+    
+}
+
+.news {
+    height: 150px;
+    padding-left: 20vw;
+}
+
+main {
+    padding-top: 25vw;
+}
+
+
+.ilustracao {
+    height: 27vw;
+    padding-left: 70vw;
+}
+
+.box {
+    position: absolute;
+}
+
+
+.img1 {
+    padding: 20px;
+    height: 17vw;
+}
