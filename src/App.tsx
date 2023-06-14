@@ -24,12 +24,18 @@ function App() {
 
         <div>
         
-      <h2 className='subtitle'>  Seu portal de notícias da E.E Manoel Soares de Couto</h2>
+      <h2 className='subtitle'>  Seu portal de notícias <br></br> da E.E Manoel Soares de Couto</h2>
         <h1 className='titulo'><span>203&apos;times</span> </h1>
         
         
         <div className='botao'>
         <a href="#meio"><button>VENHA CONFERIR!</button></a>
+        </div>
+
+        <div className='box2'>
+        <img className='img2'
+        src={ilustracao}
+        />
         </div>
         
         </div>
