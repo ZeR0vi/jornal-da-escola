@@ -17,7 +17,7 @@ function App() {
 
 
       <header>
-      <h1 className="title">203</h1>
+      <h1 className="title">2HUNDRED3 TIMES</h1>
       </header>
 
       <div className="introducao">
@@ -25,7 +25,7 @@ function App() {
         <div>
         
       <h2 className='subtitle'>  Seu portal de notícias <br></br> da E.E Manoel Soares de Couto</h2>
-        <h1 className='titulo'><span>203&apos;times</span> </h1>
+        <h1 className='titulo'><span>2HUNDRED3&apos;TIMES</span> </h1>
         
         
         <div className='botao'>
@@ -68,14 +68,14 @@ function App() {
         src={cll}
         className='img1'
         />
-        <h2 className='m'>Manchete</h2>
+        <h2 className='m'>Excesso de peso ou Excesso de tela?</h2>
        
       </div>
 
       </a>
 
       <div id='meio' className='bottom'>
-        <h2 className='bottomlogo'>203</h2>
+        <h2 className='bottomlogo'>2HUNDRED3 TIMES</h2>
       </div>
 
       
