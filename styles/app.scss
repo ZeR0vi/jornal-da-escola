@@ -153,6 +153,23 @@ main {
     display: none;
 }
 
+.images {
+    background-color: #1E1E26;
+    border-radius: 35px;
+    width: 60vw;
+
+}
+
+.noticias {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.separar {
+    padding: 50px;
+}
+
 
 @media (max-width: 999px) {
 
@@ -222,6 +239,7 @@ main {
 
     .images{
         display: block;
+        
     }
     
     .img1{
@@ -233,6 +251,7 @@ main {
         display: flex;
         align-items: center;
         justify-content: center;
+        padding: 15px;
     }
 
     main {

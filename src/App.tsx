@@ -61,6 +61,8 @@ function App() {
       <h1 className='recent'>Recentes</h1>
     </div>
 
+
+      <div className="noticias">
       
       <a href="">
       <div className='images'>
@@ -73,6 +75,9 @@ function App() {
       </div>
 
       </a>
+      </div>
+
+      <div className="separar"></div>
 
       <div id='meio' className='bottom'>
         <h2 className='bottomlogo'>2HUNDRED3 TIMES</h2>
