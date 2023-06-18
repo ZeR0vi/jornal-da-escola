@@ -64,7 +64,7 @@ function App() {
 
       <div className="noticias">
       
-      <a href="">
+      <a href="https://celular-em-sala-de-aula.vercel.app/">
       <div className='images'>
         <img
         src={cll}
